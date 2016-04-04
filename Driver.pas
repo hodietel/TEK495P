@@ -6,16 +6,23 @@ interface
 implementation
 
 const
-  TEK_GETID = 'ID?'; // get SA ID
-  TEK_ID = 'ID TEK/495P'; // TEK495P ID
-  TEK_DB_PER_DIVIVION = 'VRTDSP?'; // get dB/division scale
-  TEK_CENTER_FEQUENCY = 'FREQ?'; // get center frequeny
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
-  TEK_REF_LEVEL = 'REFLVL?'; // reference level
+  TEK_GETID = 'ID?';
+  TEK_ID = 'ID TEK/495P';
+  TEK_DB_PER_DIVIVION = 'VRTDSP?';
+  TEK_CENTER_FEQUENCY = 'FREQ?';
+  TEK_SPAN = 'SPAN?';
+  TEK_RESOLUTION_BANDWIDTH = 'RESBW?';
+  TEK_VIDEO_FILTER = 'VIDFLT?';
+  TEK_VIDEO_FILTER_NARROW = 'NARROW';
+  TEK_VIDEO_FILTER_WIDE = 'WIDE';
+  TEK_TIMEBASE = 'TIME?';
+  TEK_SWEEP_OFF = 'SIGSWP OFF;';
+  TEK_FREE_RUN = 'TRIG FRERUN;';
+  TEK_WAIT = 'SIGSWP;WAIT;';
+  TEK_GET_TRACE = 'WFMPRE WFID:A,ENC:BIN;';
+  TEK_GET_TRACE_FULL = 'WFMPRE WFID:FULL,ENC:BIN;';
+  TEK_GET_PREAMBLE = 'WFMPRE?';
+  TEK_GET_CURVE = 'CURVE?';
 
 end.
 
