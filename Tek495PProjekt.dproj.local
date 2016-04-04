@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.696,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Funktionen.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Neu1.txt</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Driver.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Driver.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Funktionen.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495P.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.303,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.586,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Neu1.txt=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Ablauf.txt</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Unit1.pas=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495P.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.244,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495PProjekt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Ablauf.txt=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Neu1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495P.dfm=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495PProjekt.dproj=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Neu1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=D:\Programme\GExperts for RAD Studio 10\FormatterSettings-HDS.ini</Transaction>
     <Transaction>1899.12.30 00:00:00.000.933,=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=C:\Users\Horst\Documents\Embarcadero\Studio\Projekte\TEK495P\Tek495P.dfm</Transaction>
-    <Transaction>2016.04.04 14:41:27.651,=D:\Programme\GExperts for RAD Studio 10\FormatterSettings-HDS.ini</Transaction>
   </Transactions>
 </BorlandProject>
