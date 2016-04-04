@@ -1,16 +1,18 @@
-{*******************************************************}
-{                                                       }
-{       Anwendung: TEK495P Steuerung                    }
-{                                                       }
-{       Copyright (c) 2016 Horst Dietel                 }
-{                                                       }
-{*******************************************************}
+{ GXFormatter.config=HDS }
+{ ******************************************************* }
+{ }
+{ Anwendung: TEK495P Steuerung }
+{ }
+{ Copyright (c) 2016 Horst Dietel }
+{ }
+{ ******************************************************* }
 unit Tek495P;
 
 interface
 
 uses
-  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Driver, Funktionen, System.Actions,
   Vcl.ActnList, Vcl.StdActns, Vcl.Menus, Vcl.ComCtrls;
 
@@ -34,3 +36,4 @@ implementation
 {$R *.dfm}
 
 end.
+
