@@ -20,9 +20,6 @@ object Hauptansicht: THauptansicht
     Width = 762
     Height = 19
     Panels = <>
-    ExplicitLeft = 704
-    ExplicitTop = 456
-    ExplicitWidth = 0
   end
   object HauptMenu: TMainMenu
     Left = 32
