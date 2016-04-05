@@ -99,7 +99,7 @@
         <DCCReference Include="Driver.pas"/>
         <DCCReference Include="Funktionen.pas"/>
         <None Include="Ablauf.txt"/>
-        <None Include="D:\Programme\GExperts for RAD Studio 10\FormatterSettings-HDS.ini"/>
+        <None Include="FormatterSettings-HDS.ini"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
