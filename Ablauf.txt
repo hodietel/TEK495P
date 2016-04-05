@@ -1,0 +1,17 @@
+1. Initialisierung
+1.1 Initialisierung Form
+1.2 Initialisierung Com:
+1.3 Prüfung, ob TEK angeschlossen
+2. Datenanzeige
+2.1 Rahmendaten lesen (Y-Achse, Start, Stop, etc.)
+2.2 Daten lesen
+2.3 Daten aufbereiten
+2.4 Daten anzeigen
+
+Buttons:
+1. ComPort
+1.1 Port schließen
+1.2 Neue Einstellungen eingeben
+1.3 Port öffnen
+1.4 Prüfung, ob TEK angeschlossen
+

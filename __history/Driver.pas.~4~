@@ -1,0 +1,10 @@
+unit Driver;
+
+interface
+
+implementation
+
+const
+  TEK_ID : 'ID?';
+
+end.

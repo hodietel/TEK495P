@@ -1,0 +1,8 @@
+unit Driver;
+
+interface
+
+implementation
+var
+const TEK_ID := 'ID?';
+end.
